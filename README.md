@@ -63,20 +63,20 @@ View Live Portfolio
 
 Clone the repository:
 
-git clone https://github.com/MuskanSoni2/muskan-portfolio.git
+* git clone https://github.com/MuskanSoni2/muskan-portfolio.git
 
 
-Navigate to the project folder:
+* Navigate to the project folder:
 
 cd muskan-portfolio
 
 
-Install dependencies:
+* Install dependencies:
 
 npm install
 
 
-Run the development server:
+* Run the development server:
 
 npm run dev
 
