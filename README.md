@@ -54,17 +54,6 @@ Cloud Platforms: IBM Cloud, Firebase
 
 UI/UX Designing Interest
 
-🖼 Screenshots
-<img width="2821" height="1418" alt="image" src="https://github.com/user-attachments/assets/655eb928-8ec3-4b9d-b00d-6bec04c13255" />
-
-About Section
-
-Projects Section
-
-Contact Section
-
-Replace the placeholders above with actual screenshots from your portfolio.
-
 🚀 Live Demo
 
 Check out the live portfolio here:
