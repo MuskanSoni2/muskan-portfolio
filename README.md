@@ -1,34 +1,34 @@
 # Muskan Soni – Personal Portfolio
 🌟 About This Portfolio
 
-* This is my personal portfolio website showcasing my skills, education, projects, certificates, and contact information.
+ This is my personal portfolio website showcasing my skills, education, projects, certificates, and contact information.
 It is built with React.js, Vite, and modern web technologies, featuring:
 
-Smooth scrolling navigation
+* Smooth scrolling navigation
 
-Animated header with typewriter effect
+* Animated header with typewriter effect
 
-Interactive UI/UX design
+* Interactive UI/UX design
 
-Fully responsive for all devices
+* Fully responsive for all devices
 
-Highlighted skills, education, projects, and certificates
+* Highlighted skills, education, projects, and certificates
 
 Quote in Header: “From pixels to protocols, I craft web experiences that matter.”
 
 🎨 Features
 
-Full-stack and blockchain developer portfolio
+* Full-stack and blockchain developer portfolio
 
-Section-wise showcase: Header, About, Education, Skills, Projects, Certificates, Contact
+* Section-wise showcase: Header, About, Education, Skills, Projects, Certificates, Contact
 
-Hover and animation effects using Framer Motion
+* Hover and animation effects using Framer Motion
 
-Smooth scrolling navigation menu
+* Smooth scrolling navigation menu
 
-Profile image integrated in header
+* Profile image integrated in header
 
-Interactive contact form
+* Interactive contact form
 
 🛠 Technologies Used
 
