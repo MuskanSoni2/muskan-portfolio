@@ -1,7 +1,7 @@
 # Muskan Soni – Personal Portfolio
 🌟 About This Portfolio
 
-This is my personal portfolio website showcasing my skills, education, projects, certificates, and contact information.
+* This is my personal portfolio website showcasing my skills, education, projects, certificates, and contact information.
 It is built with React.js, Vite, and modern web technologies, featuring:
 
 Smooth scrolling navigation
