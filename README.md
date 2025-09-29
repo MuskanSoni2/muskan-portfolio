@@ -1,2 +1,106 @@
-# muskan-portfolio
+# Muskan Soni – Personal Portfolio
+🌟 About This Portfolio
+
 This is my personal portfolio website showcasing my skills, education, projects, certificates, and contact information.
+It is built with React.js, Vite, and modern web technologies, featuring:
+
+Smooth scrolling navigation
+
+Animated header with typewriter effect
+
+Interactive UI/UX design
+
+Fully responsive for all devices
+
+Highlighted skills, education, projects, and certificates
+
+Quote in Header: “From pixels to protocols, I craft web experiences that matter.”
+
+🎨 Features
+
+Full-stack and blockchain developer portfolio
+
+Section-wise showcase: Header, About, Education, Skills, Projects, Certificates, Contact
+
+Hover and animation effects using Framer Motion
+
+Smooth scrolling navigation menu
+
+Profile image integrated in header
+
+Interactive contact form
+
+🛠 Technologies Used
+
+Frontend: React.js, HTML, CSS, JavaScript
+
+Animation: Framer Motion, CSS transitions
+
+Build Tool: Vite
+
+Deployment: Netlify (free hosting)
+
+Other Tools: Git & GitHub
+
+💻 Skills Highlighted
+
+Programming Languages & Python Libraries: C++, Python, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
+
+Web Development: HTML, CSS, JavaScript, React.js, Node.js, Express.js
+
+Databases: MongoDB, Firebase
+
+Cloud Platforms: IBM Cloud, Firebase
+
+UI/UX Designing Interest
+
+🖼 Screenshots
+<img width="2821" height="1418" alt="image" src="https://github.com/user-attachments/assets/655eb928-8ec3-4b9d-b00d-6bec04c13255" />
+
+About Section
+
+Projects Section
+
+Contact Section
+
+Replace the placeholders above with actual screenshots from your portfolio.
+
+🚀 Live Demo
+
+Check out the live portfolio here:
+View Live Portfolio
+
+📦 Installation / Running Locally
+
+Clone the repository:
+
+git clone https://github.com/MuskanSoni2/muskan-portfolio.git
+
+
+Navigate to the project folder:
+
+cd muskan-portfolio
+
+
+Install dependencies:
+
+npm install
+
+
+Run the development server:
+
+npm run dev
+
+
+Open http://localhost:5173
+ in your browser.
+
+📞 Contact
+
+You can reach me via:
+
+Email: muskansoni0201@gmail.com
+
+LinkedIn: Muskan Soni
+
+GitHub: MuskanSoni2
