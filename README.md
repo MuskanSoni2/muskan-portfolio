@@ -92,3 +92,7 @@ You can reach me via:
 Email: muskansoni0201@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/muskan-soni02/
+
+
+Copyright © 2025 Muskan Soni.  
+All rights reserved. 
