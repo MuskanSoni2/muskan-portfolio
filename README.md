@@ -1,5 +1,5 @@
 # Muskan Soni – Personal Portfolio
-** 🌟 About This Portfolio**
+**🌟 About This Portfolio**
 
  This is my personal portfolio website showcasing my skills, education, projects, certificates, and contact information.
 It is built with React.js, Vite, and modern web technologies, featuring:
@@ -16,7 +16,7 @@ It is built with React.js, Vite, and modern web technologies, featuring:
 
 Quote in Header: “From pixels to protocols, I craft web experiences that matter.”
 
-🎨 Features
+**🎨 Features**
 
 * Full-stack and blockchain developer portfolio
 
@@ -30,7 +30,7 @@ Quote in Header: “From pixels to protocols, I craft web experiences that matte
 
 * Interactive contact form
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 Frontend: React.js, HTML, CSS, JavaScript
 
@@ -42,7 +42,7 @@ Deployment: Netlify (free hosting)
 
 Other Tools: Git & GitHub
 
-💻 Skills Highlighted
+**💻 Skills Highlighted**
 
 Programming Languages & Python Libraries: C++, Python, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
@@ -54,12 +54,12 @@ Cloud Platforms: IBM Cloud, Firebase
 
 UI/UX Designing Interest
 
-🚀 Live Demo
+**🚀 Live Demo**
 
 Check out the live portfolio here:
 View Live Portfolio
 
-📦 Installation / Running Locally
+**📦 Installation / Running Locally**
 
 Clone the repository:
 
@@ -84,7 +84,7 @@ npm run dev
 Open http://localhost:5173
  in your browser.
 
-📞 Contact
+**📞 Contact**
 
 You can reach me via:
 
