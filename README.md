@@ -90,6 +90,4 @@ You can reach me via:
 
 Email: muskansoni0201@gmail.com
 
-LinkedIn: [Muskan Soni
-
-GitHub: https://www.linkedin.com/in/muskan-soni2/
+LinkedIn: https://www.linkedin.com/in/muskan-soni2/
