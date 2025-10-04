@@ -57,8 +57,7 @@ UI/UX Designing Interest
 
 **🚀 Live Demo**
 
-Check out the live portfolio here:
-View Live Portfolio
+Check out the live portfolio here:  https://portfolio-muskaan.netlify.app/
 
 **📦 Installation / Running Locally**
 
